@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+
+
+# Virtual environment
+venv/
+env/
+
+# Flask
+instance/
+.webassets-cache/
+.wsgienv
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+dist/
+
